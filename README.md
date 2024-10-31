@@ -28,7 +28,7 @@
 Make sure to install the following dependencies:
 
 ```bash
-sudo apt-get install qt5-default libopencv-dev v4l-utils libudev-dev
+sudo apt-get install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools
 ```
 
 ### Building the Project
